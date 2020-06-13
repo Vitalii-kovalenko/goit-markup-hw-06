@@ -1,2 +1,2 @@
 # goit-markup-hw-04
-https://vitalii-kovalenko.github.io/goit-markup-hw-05/
+https://vitalii-kovalenko.github.io/goit-markup-hw-06/
