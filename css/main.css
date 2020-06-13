@@ -104,7 +104,6 @@ img{
    width: 0;
    height: 4px;
    bottom: -2.2px;
-   bottom: 0;
    left: 50%;
    transition: width .5s, left .5s; 
    
@@ -783,7 +782,7 @@ textarea{
 .checkbox:checked + .check-icon{
 
    background-image: url(../img/icon-check.svg);
-   background-color: var(--primary-accent-color)3;
+   background-color: var(--primary-accent-color);
    border-color: transparent;
    background-size: contain;
    background-origin: border-box;
